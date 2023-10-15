@@ -1,7 +1,8 @@
-package com.example.zelda_pedia
+package com.example.zelda_pedia.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.zelda_pedia.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

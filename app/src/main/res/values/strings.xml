@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">zelda_pedia</string>
+    <string name="app_name">Zeldapedia</string>
+    <string name="search">Buscar</string>
+    <string name="loading">Cargando…</string>
 </resources>
